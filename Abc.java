@@ -22,8 +22,8 @@ public class Abc {
          System.out.print("chage by branch 1"); //master 4
 
 
-        System.out.print("chage by branch 1"); //commit 10
-        System.out.print("chage by branch 1"); //commit 11
+        System.out.print("chage by master 1"); //commit 10
+        System.out.print("chage by master 1"); //commit 11
 
 
     }
