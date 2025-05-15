@@ -1,5 +1,7 @@
 public class Abc {
     public static void main(String[] args) {
-        System.out.print("chage by branch 1")
+        System.out.print("chage by branch 1");
+        System.out.print("chage by branch 1");
+
     }
 }
